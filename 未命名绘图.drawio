@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="第 1 页" id="zT8fP4G0im92JGk3ruNi">
-    <mxGraphModel dx="4007" dy="1800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2947" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,14 +24,14 @@
         <mxCell id="vRT_TVWz7FN-6WbVA6KG-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vRT_TVWz7FN-6WbVA6KG-2" target="vRT_TVWz7FN-6WbVA6KG-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vRT_TVWz7FN-6WbVA6KG-2" value="第一名" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
+        <mxCell id="vRT_TVWz7FN-6WbVA6KG-2" value="每组第一名" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="210" y="619" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vRT_TVWz7FN-6WbVA6KG-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vRT_TVWz7FN-6WbVA6KG-3" target="vRT_TVWz7FN-6WbVA6KG-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vRT_TVWz7FN-6WbVA6KG-3" value="第二名" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="235" y="703" width="120" height="60" as="geometry" />
+        <mxCell id="vRT_TVWz7FN-6WbVA6KG-3" value="每组第二名" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="220" y="703" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vRT_TVWz7FN-6WbVA6KG-4" value="其它" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="340" y="799" width="105" height="50" as="geometry" />
@@ -101,7 +101,7 @@
             <mxPoint x="1471" y="710.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vRT_TVWz7FN-6WbVA6KG-54" value="前六名" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
+        <mxCell id="vRT_TVWz7FN-6WbVA6KG-54" value="总分排名前六名" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="1261" y="680.75" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vRT_TVWz7FN-6WbVA6KG-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vRT_TVWz7FN-6WbVA6KG-56" edge="1">
@@ -109,8 +109,8 @@
             <mxPoint x="1478" y="794.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vRT_TVWz7FN-6WbVA6KG-56" value="评委选定12个课题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="1232" y="764.75" width="204" height="60" as="geometry" />
+        <mxCell id="vRT_TVWz7FN-6WbVA6KG-56" value="评委综合商定12个课题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="764.75" width="226" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vRT_TVWz7FN-6WbVA6KG-78" value="所有获得其它名次的课题" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="1228" y="592.75" width="248" height="40" as="geometry" />
@@ -139,8 +139,8 @@
         <mxCell id="vRT_TVWz7FN-6WbVA6KG-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vRT_TVWz7FN-6WbVA6KG-96" target="vRT_TVWz7FN-6WbVA6KG-106" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vRT_TVWz7FN-6WbVA6KG-96" value="前六名" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="662" y="699" width="170" height="60" as="geometry" />
+        <mxCell id="vRT_TVWz7FN-6WbVA6KG-96" value="评委选定6个课题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="650" y="699" width="182" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vRT_TVWz7FN-6WbVA6KG-105" value="复活池：共计24个课题" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="638" y="628" width="242" height="40" as="geometry" />
